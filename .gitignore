@@ -40,4 +40,8 @@
 */x64
 */x32
 
+*/*/Debug
+*/*/x64
+*/*/x32
+
 # End of https://www.toptal.com/developers/gitignore/api/c++
